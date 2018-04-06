@@ -1,8 +1,8 @@
 # KPCB HashMap
 I created and analysed my own implementation of a hash map using lists, single hashing and closed addresing. <br />
-I used pyplot to visualize the run time of my algorythm for setting 1000 key-value pairs and deleting 1000 key value pairs. 
+I used pyplot to visualize the run time of my algorythm for getting, setting, and deleting 3000 key-value pairs
 This experiement was carried out for 100 sets of key-value pairs and the results were averaged. 
 
-![Screenshot] 
-![Screenshot] 
-
+![Screenshot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Get-3000-items.png)
+![Screenshot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Set-3000-items.png)
+![Screenshot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Delete-3000-items.png)
