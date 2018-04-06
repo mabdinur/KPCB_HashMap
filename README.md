@@ -4,5 +4,5 @@ I used pyplot to visualize the run time of my algorythm for getting, setting, an
 This experiement was carried out for 100 sets of key-value pairs and the results were averaged. 
 
 ![ScreenShot](Get-3000-items.png)
-![ScreenShot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Set-3000-items.png)
-![ScreenShot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Delete-3000-items.png)
+![ScreenShot](Set-3000-items.png)
+![ScreenShot](Delete-3000-items.png)
