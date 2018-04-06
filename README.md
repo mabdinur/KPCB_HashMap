@@ -3,6 +3,6 @@ I created and analysed my own implementation of a hash map using lists, single h
 I used pyplot to visualize the run time of my algorythm for getting, setting, and deleting 3000 key-value pairs
 This experiement was carried out for 100 sets of key-value pairs and the results were averaged. 
 
-![ScreenShot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Get-3000-items.png)
+![ScreenShot] (Get-3000-items.png)
 ![ScreenShot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Set-3000-items.png)
 ![ScreenShot] (https://github.com/mabdinur/KPCB_HashMap/blob/master/Delete-3000-items.png)
